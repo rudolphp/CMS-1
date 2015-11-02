@@ -1,4 +1,5 @@
 .env
 phpunit.xml
-vendor
+#vendor
 node_modules
+.idea
